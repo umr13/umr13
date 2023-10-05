@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Umar
+- 👾 Open to Work and Collaborate
 - 🚀 I’m passionate about Building Products, Robotics and ML
-- 📫 Email: ikramumar13@gmail.com
+- 📫 <a href="mailto:ikramumar13@gmail.com">Email me here</a>
+- ✨ <a href="https://www.linkedin.com/in/umr13/">Connect with me on LinkedIn</a>

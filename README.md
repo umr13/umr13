@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Umar
-- 👀 I’m interested in Robotics and ML
-- 📫 Email: umar@cybrnode.com
+- 🚀 I’m passionate about Building Products, Robotics and ML
+- 📫 Email: ikramumar13@gmail.com
